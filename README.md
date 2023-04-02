@@ -12,6 +12,7 @@
 - Stream usage. The app can work with incredible big files, as the data is processed in a stream.
 - More than 60% code coverage.
 - Able to run on Docker
+- GitHub CI
 
 ## How it works
 1) The request is parsed and validated. If it badly formatted or lacks an argument, an error is returned.
